@@ -39,8 +39,8 @@ const Footer = () => {
             <h1>Support</h1>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Selling on Fiverr</span>
-            <span>Buying on Fiverr</span>
+            <span>Selling on Majdur</span>
+            <span>Buying on Majdur</span>
           </div>
           <div className="item">
             <h1>Community</h1>
@@ -53,16 +53,16 @@ const Footer = () => {
             <span>Invite a Friend</span>
           </div>
           <div className="item">
-            <h1>More From Fiverr</h1>
-            <span>Fiverr Business</span>
-            <span>Fiverr Pro</span>
-            <span>Fiverr Studios</span>
-            <span>Fiverr Logo Maker</span>
-            <span>Fiverr Guild</span>
+            <h1>More From Majdur</h1>
+            <span>Majdur Business</span>
+            <span>Majdur Pro</span>
+            <span>Majdur Studios</span>
+            <span>Majdur Logo Maker</span>
+            <span>Majdur Guild</span>
             <span>Get Inspired</span>
-            <span>Fiverr Select</span>
+            <span>Majdur Select</span>
             <span>Clear Voice</span>
-            <span>Fiverr Workspace</span>
+            <span>Majdur Workspace</span>
             <span>Learn</span>
             <span>Working Not Working</span>
           </div>
@@ -70,8 +70,8 @@ const Footer = () => {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>fiverr</h2>
-            <span>© Fiverr International Ltd. {new Date().getFullYear()}</span>
+            <h2>Majdur</h2>
+            <span>© Majdur International Ltd. {new Date().getFullYear()}</span>
           </div>
           <div className="right">
             <div className="social">
