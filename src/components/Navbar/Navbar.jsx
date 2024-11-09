@@ -102,14 +102,14 @@ const Navbar = () => {
       <div className="container">
         <div className="logo">
           <Link to="/" className="link">
-            <span className="text">Majdur</span>
+            <span className="text">Socio</span>
           </Link>
           <span className="dot">.</span>
         </div>
 
         <div className="links">
           <div className="menu-links">
-            <span>Majdur Business</span>
+            <span>Socio Business</span>
             <span>Explore</span>
             <span>English</span>
             {!user?.isSeller && <span>Become a Seller</span>}
