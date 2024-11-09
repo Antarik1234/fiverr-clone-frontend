@@ -70,8 +70,8 @@ const Footer = () => {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>Majdur</h2>
-            <span>© Majdur International Ltd. {new Date().getFullYear()}</span>
+            <h2>Socio</h2>
+            <span>© Socio International Ltd. {new Date().getFullYear()}</span>
           </div>
           <div className="right">
             <div className="social">
